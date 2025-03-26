@@ -1,4 +1,3 @@
-## Hi there 👋
 ![banner_linkedin](https://github.com/user-attachments/assets/1b20c3c1-d6a8-4e14-932e-d675adb91f1b)
 
 <!--
