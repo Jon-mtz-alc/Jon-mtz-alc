@@ -3,7 +3,7 @@
 ## About me:
 I am a young professional graduated in Digital Industry.
 
-<div text-align"justify">Continuouly learning and evolving in this constantly changing technological environment, and applying my knowledge to contribute to the development of projects, collaborating with teams to promote innovative solutions that generate value and contribute to the construction of a more efficient, connected and sustainable future.<div>
+Continuouly learning and evolving in this constantly changing technological environment, and applying my knowledge to contribute to the development of projects, collaborating with teams to promote innovative solutions that generate value and contribute to the construction of a more efficient, connected and sustainable future.<div>
 
 <!--
 **Jon-mtz-alc/Jon-mtz-alc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
