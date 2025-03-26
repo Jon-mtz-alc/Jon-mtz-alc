@@ -8,7 +8,8 @@
   <br><br>
   My goal is to continuously learn and evolve in this constantly changing technological environment, collaborating with teams to promote innovative solutions that generate value and contribute to the construction of a more efficient, connected and sustainable future.
 </div>
-<br><br>
+
+## Skills:
 <h4> Languages </h4>
 <span>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
