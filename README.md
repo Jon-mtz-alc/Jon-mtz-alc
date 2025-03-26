@@ -1,6 +1,6 @@
 ![banner_linkedin](https://github.com/user-attachments/assets/1b20c3c1-d6a8-4e14-932e-d675adb91f1b)
 
-## About me:
+## About me
 <div align="justify">
   I am a young professional and a digital transformation engineer, mainly focused on machine learning, artificial intelligence, and industrial IoT(IIoT).
   <br><br>
@@ -9,7 +9,13 @@
   My goal is to continuously learn and evolve in this constantly changing technological environment, collaborating with teams to promote innovative solutions that generate value and contribute to the construction of a more efficient, connected and sustainable future.
 </div>
 
-## Skills:
+## Skills
+<h4> OSs </h4>
+<span>
+  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
+</span>
+
 <h4> Languages </h4>
 <span>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -17,12 +23,14 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </span>
+
 <h4> IDEs </h4>
 <span>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 </span>
+
 <h4> Frameworks & Platforms</h4>
 <span>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
@@ -43,12 +51,6 @@
 </span>
 
 
-<h4> OS </h4>
-<span>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</span>
 
 <h4> 🖥️ ML/DL </h4>
 <span>
