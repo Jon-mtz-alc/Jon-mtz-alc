@@ -3,6 +3,7 @@
 ## About me:
 <div align="justify">
   I am a young professional and a digital transformation engineer, mainly focused on machine learning, artificial intelligence, and industrial IoT (IIoT).
+  <br>
   I'm passionate about AI-based industrial optimization and developing innovative solutions. I'm always exploring new technologies and improving my skills in cloud computing, DevOps, and data analytics.
 </div>
 
