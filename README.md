@@ -6,7 +6,7 @@
   <br><br>
   I'm passionate about AI-based industrial optimization and developing innovative solutions, always exploring new technologies and improving my skills in cloud computing, DevOps, and data analytics.
   <br><br>
-  My goal is to continuously learn and evolve in this constantly changing technological environment, applying my knowledge to contribute to the development of projects, collaborating with teams to promote innovative solutions that generate value and contribute to the         construction of a more efficient, connected and sustainable future.
+  My goal is to continuously learn and evolve in this constantly changing technological environment, collaborating with teams to promote innovative solutions that generate value and contribute to the construction of a more efficient, connected and sustainable future.
 </div>
 
 <!--
