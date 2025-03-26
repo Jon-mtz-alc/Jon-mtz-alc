@@ -2,8 +2,11 @@
 
 ## About me:
 <div align="justify">
-  I am a young professional graduated in Digital Industry, my areas of expertise involve digital transformation and technological innovation, with a focus on Industry 4.0.
-  
+  I am a young professional and a digital transformation engineer, mainly focused on machine learning, artificial intelligence, and industrial IoT (IIoT).
+  I'm passionate about AI-based industrial optimization and developing innovative solutions. I'm always exploring new technologies and improving my skills in cloud computing, DevOps, and data analytics.
+</div>
+
+<div align="justify">
   My goal is to continuously learn and evolve in this constantly changing technological environment, and applying my knowledge to contribute to the development of projects, collaborating with teams to promote innovative solutions that generate value and contribute to the     construction of a more efficient, connected and sustainable future.
 </div>
 
