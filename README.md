@@ -11,7 +11,7 @@
 <br>
 
 ## Skills
-<h4><b> OSs </b></h4>
+<h4> OSs </h4>
 <span>
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
