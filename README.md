@@ -1,5 +1,10 @@
 ![banner_linkedin](https://github.com/user-attachments/assets/1b20c3c1-d6a8-4e14-932e-d675adb91f1b)
 
+## About me:
+I am a young professional graduated in Digital Industry.
+
+Continuouly learning and evolving in this constantly changing technological environment, and applying my knowledge to contribute to the development of projects, collaborating with teams to promote innovative solutions that generate value and contribute to the construction of a more efficient, connected and sustainable future.
+
 <!--
 **Jon-mtz-alc/Jon-mtz-alc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
