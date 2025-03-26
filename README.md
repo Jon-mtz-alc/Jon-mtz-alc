@@ -2,12 +2,13 @@
 
 ## About me
 <div align="justify">
-  I am a young professional and a digital transformation engineer, mainly focused on machine learning, artificial intelligence, and industrial IoT(IIoT).
+  I am a young professional and a digital transformation engineer, mainly focused on machine learning, artificial intelligence, and industrial IoT (IIoT).
   <br><br>
   I'm passionate about AI-based industrial optimization and developing innovative solutions, always exploring new technologies and improving my skills in cloud computing, DevOps, and data analytics.
   <br><br>
   My goal is to continuously learn and evolve in this constantly changing technological environment, collaborating with teams to promote innovative solutions that generate value and contribute to the construction of a more efficient, connected and sustainable future.
 </div>
+<br>
 
 ## Skills
 <h4> OSs </h4>
@@ -51,19 +52,6 @@
  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
-
-
-
-<h4> 🖥️ ML/DL </h4>
-<span>
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
-</span>
-<h4> ☁️ Hosting/SaaS </h4>
-<span>
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 
   
 <!--
