@@ -1,9 +1,11 @@
 ![banner_linkedin](https://github.com/user-attachments/assets/1b20c3c1-d6a8-4e14-932e-d675adb91f1b)
 
 ## About me:
-I am a young professional graduated in Digital Industry.
+I am a young professional graduated in Digital Industry, my areas of expertise involve digital transformation and technological innovation, with a focus on Industry 4.0.
 
-Continuouly learning and evolving in this constantly changing technological environment, and applying my knowledge to contribute to the development of projects, collaborating with teams to promote innovative solutions that generate value and contribute to the construction of a more efficient, connected and sustainable future.<div>
+<div text-align"justify">
+My goal is to continuously learn and evolve in this constantly changing technological environment, and applying my knowledge to contribute to the development of projects, collaborating with teams to promote innovative solutions that generate value and contribute to the construction of a more efficient, connected and sustainable future.
+</div>
 
 <!--
 **Jon-mtz-alc/Jon-mtz-alc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
